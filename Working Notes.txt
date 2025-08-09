@@ -1,0 +1,10 @@
+* created a folder
+* created a file (called it hello.py)
+* wrote a small .py programme
+* run the programme from the cmd line
+* git init (created repo)
+* configure git (if required)-
+* git config user.name "name last"
+*"git add hello.py" or "git add."
+* git commit -m "what ever message you want"
+git log (see the commited change)
